@@ -22,6 +22,21 @@
   font-size: large;
 }
 
+#dealbutton{
+  float: left;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: 1px solid red;
+    margin: 6px;
+}
+
+body{
+  background-color: #2A5D32;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
